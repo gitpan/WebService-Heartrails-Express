@@ -57,7 +57,7 @@
    "provides" : {
       "WebService::Heartrails::Express" : {
          "file" : "lib/WebService/Heartrails/Express.pm",
-         "version" : "0.00"
+         "version" : "0.01"
       },
       "WebService::Heartrails::Express::Provider" : {
          "file" : "lib/WebService/Heartrails/Express/Provider.pm"
@@ -86,5 +86,5 @@
          "web" : "https://github.com/sue7ga/WebService-Heartrails-Express"
       }
    },
-   "version" : "0.00"
+   "version" : "0.01"
 }

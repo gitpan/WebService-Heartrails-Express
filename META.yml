@@ -28,7 +28,7 @@ no_index:
 provides:
   WebService::Heartrails::Express:
     file: lib/WebService/Heartrails/Express.pm
-    version: 0.00
+    version: 0.01
   WebService::Heartrails::Express::Provider:
     file: lib/WebService/Heartrails/Express/Provider.pm
   WebService::Heartrails::Express::Provider::Common:
@@ -47,4 +47,4 @@ resources:
   bugtracker: https://github.com/sue7ga/WebService-Heartrails-Express/issues
   homepage: https://github.com/sue7ga/WebService-Heartrails-Express
   repository: git://github.com/sue7ga/WebService-Heartrails-Express.git
-version: 0.00
+version: 0.01
